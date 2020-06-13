@@ -1,0 +1,4 @@
+#!/bin/bash
+mv ~/Downloads/*.docx /usr/share/doctors
+mv ~/Downloads/*.txt /usr/share/patients
+mv ~/Downloads/*.pdf /usr/share/treatments
