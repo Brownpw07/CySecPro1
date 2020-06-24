@@ -93,7 +93,7 @@ SSH into the control node and follow the steps below:
 - Update the <ins>hosts</ins> file to include... <ins>target machines.</ins>
 - Run the playbook, and navigate to <ins>http://23.99.210.83:5601</ins> to check that the installation worked as expected.
 
-_TODO: Answer the following questions to fill in the blanks:_
+Answer the following questions to fill in the blanks:_
 - _Which file is the playbook? Where do you copy it?_
 - The .yml file. /etc/ansible/roles
 - _Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?_
@@ -101,7 +101,7 @@ _TODO: Answer the following questions to fill in the blanks:_
 - _Which URL do you navigate to in order to check that the ELK server is running?
 - http://23.99.210.83:5601
 
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+Provided are the specific commands the user will need to run to download the playbook, update the files, etc._
 
 - git clone https://github.com/Brownpw07/CySecPro1.git
 - sudo apt-get install ansible
